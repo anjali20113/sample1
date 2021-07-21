@@ -13,5 +13,3 @@ It is built on top of one of the fastest and real-time datta indexing engine - P
 It is low level (raw) form of data and is also human readable.
 It helps developers in faster coding, in-turn reduces development cost.
 
-
-AJAX is defined as:
